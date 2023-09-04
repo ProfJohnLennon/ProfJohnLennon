@@ -1,6 +1,7 @@
 ### Sejam bem vindos ao meu perfil! 🌎
 
 Meu nome é John Lennon, sou professor de pensamento computacional
+
 Uso esse espaço para auxiliar meu alunos em programação.
 
 - Entre em contato comigo via 📧 john.petachinski@escola.pr.gov.br
